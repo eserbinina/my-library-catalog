@@ -243,7 +243,6 @@ function Reports() {
         </div>
         <div style={{ display: 'flex', gap: '12px' }}>
           <Link to="/librarian/panel" style={{ textDecoration: 'none', color: '#3636FF', fontSize: '14px' }}>← Назад к панели</Link>
-          <button style={{ padding: '8px 16px', backgroundColor: 'transparent', color: '#3636FF', border: '1px solid #3636FF', borderRadius: '8px', cursor: 'pointer', fontSize: '13px' }}>Выйти</button>
         </div>
       </div>
 
